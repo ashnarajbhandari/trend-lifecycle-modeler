@@ -40,4 +40,4 @@ The Trend Lifecycle Modeler analyzes 20 beauty and lifestyle trends and maps the
 
 ---
 
-*Built by [Ash Rajbhandari](https://github.com/ashnarajbhandari)*
+*Built by [Ashna Rajbhandari](https://github.com/ashnarajbhandari)*
